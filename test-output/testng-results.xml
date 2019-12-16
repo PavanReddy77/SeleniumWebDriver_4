@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24523" started-at="2019-12-16T15:00:27Z" finished-at="2019-12-16T15:00:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24523" started-at="2019-12-16T15:00:27Z" finished-at="2019-12-16T15:00:51Z">
+      <class name="SeleniumTestCases.OpenNewBlankTabOrWindow">
+        <test-method status="PASS" signature="openNewBlankTabOrWindow()[pri:1, instance:SeleniumTestCases.OpenNewBlankTabOrWindow@523884b2]" name="openNewBlankTabOrWindow" duration-ms="24493" started-at="2019-12-16T20:30:27Z" finished-at="2019-12-16T20:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewBlankTabOrWindow -->
+      </class> <!-- SeleniumTestCases.OpenNewBlankTabOrWindow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
