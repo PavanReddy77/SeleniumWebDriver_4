@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24523" started-at="2019-12-16T15:00:27Z" finished-at="2019-12-16T15:00:51Z">
+  <suite name="Default suite" duration-ms="28163" started-at="2019-12-17T15:38:13Z" finished-at="2019-12-17T15:38:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24523" started-at="2019-12-16T15:00:27Z" finished-at="2019-12-16T15:00:51Z">
-      <class name="SeleniumTestCases.OpenNewBlankTabOrWindow">
-        <test-method status="PASS" signature="openNewBlankTabOrWindow()[pri:1, instance:SeleniumTestCases.OpenNewBlankTabOrWindow@523884b2]" name="openNewBlankTabOrWindow" duration-ms="24493" started-at="2019-12-16T20:30:27Z" finished-at="2019-12-16T20:30:51Z">
+    <test name="Default test" duration-ms="28163" started-at="2019-12-17T15:38:13Z" finished-at="2019-12-17T15:38:41Z">
+      <class name="TestCases.OpenNewBlankTabOrWindow">
+        <test-method status="PASS" signature="openNewBlankTabOrWindow()[pri:1, instance:TestCases.OpenNewBlankTabOrWindow@523884b2]" name="openNewBlankTabOrWindow" duration-ms="28131" started-at="2019-12-17T21:08:13Z" finished-at="2019-12-17T21:08:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openNewBlankTabOrWindow -->
-      </class> <!-- SeleniumTestCases.OpenNewBlankTabOrWindow -->
+      </class> <!-- TestCases.OpenNewBlankTabOrWindow -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

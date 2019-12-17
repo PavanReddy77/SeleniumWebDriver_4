@@ -1,4 +1,4 @@
-package SeleniumTestCases;
+package TestCases;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,10 +19,13 @@ public class OpenNewBlankTabOrWindow
 	{
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
-		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.manage().window().maximize();
+		driver.manage().deleteAllCookies();
+			
+		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 		
 		driver.get("http://www.google.com");
-		driver.manage().window().maximize();
 		
 		System.out.println("Printing Title of Google ::: " +driver.getTitle());
 		
