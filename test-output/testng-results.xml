@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="28163" started-at="2019-12-17T15:38:13Z" finished-at="2019-12-17T15:38:41Z">
+  <suite name="Default suite" duration-ms="13230" started-at="2019-12-21T17:23:56Z" finished-at="2019-12-21T17:24:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="28163" started-at="2019-12-17T15:38:13Z" finished-at="2019-12-17T15:38:41Z">
-      <class name="TestCases.OpenNewBlankTabOrWindow">
-        <test-method status="PASS" signature="openNewBlankTabOrWindow()[pri:1, instance:TestCases.OpenNewBlankTabOrWindow@523884b2]" name="openNewBlankTabOrWindow" duration-ms="28131" started-at="2019-12-17T21:08:13Z" finished-at="2019-12-17T21:08:41Z">
+    <test name="Default test" duration-ms="13230" started-at="2019-12-21T17:23:56Z" finished-at="2019-12-21T17:24:09Z">
+      <class name="TestCases.WebElementScreenshot_3">
+        <test-method status="PASS" signature="takeWebElementsScreenshot_2()[pri:2, instance:TestCases.WebElementScreenshot_3@523884b2]" name="takeWebElementsScreenshot_2" duration-ms="13089" started-at="2019-12-21T22:53:56Z" finished-at="2019-12-21T22:54:09Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- openNewBlankTabOrWindow -->
-      </class> <!-- TestCases.OpenNewBlankTabOrWindow -->
+        </test-method> <!-- takeWebElementsScreenshot_2 -->
+      </class> <!-- TestCases.WebElementScreenshot_3 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

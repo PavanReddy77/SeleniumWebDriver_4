@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="TestCases.RelativeLocators_2">
+      <class name="TestCases.WebElementScreenshot_3">
         <methods>
-          <include name="relativeLocators"/>
+          <include name="takeWebElementScreenshot"/>
         </methods>
-      </class> <!-- TestCases.RelativeLocators_2 -->
+      </class> <!-- TestCases.WebElementScreenshot_3 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
