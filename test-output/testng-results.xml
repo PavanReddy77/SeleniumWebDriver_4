@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13230" started-at="2019-12-21T17:23:56Z" finished-at="2019-12-21T17:24:09Z">
+  <suite name="Default suite" duration-ms="24606" started-at="2019-12-22T15:20:55Z" finished-at="2019-12-22T15:21:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13230" started-at="2019-12-21T17:23:56Z" finished-at="2019-12-21T17:24:09Z">
-      <class name="TestCases.WebElementScreenshot_3">
-        <test-method status="PASS" signature="takeWebElementsScreenshot_2()[pri:2, instance:TestCases.WebElementScreenshot_3@523884b2]" name="takeWebElementsScreenshot_2" duration-ms="13089" started-at="2019-12-21T22:53:56Z" finished-at="2019-12-21T22:54:09Z">
+    <test name="Default test" duration-ms="24606" started-at="2019-12-22T15:20:55Z" finished-at="2019-12-22T15:21:20Z">
+      <class name="TestCases.GetRectMethodTest">
+        <test-method status="PASS" signature="getRectMethodTest()[pri:1, instance:TestCases.GetRectMethodTest@523884b2]" name="getRectMethodTest" duration-ms="24561" started-at="2019-12-22T20:50:55Z" finished-at="2019-12-22T20:51:20Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- takeWebElementsScreenshot_2 -->
-      </class> <!-- TestCases.WebElementScreenshot_3 -->
+        </test-method> <!-- getRectMethodTest -->
+      </class> <!-- TestCases.GetRectMethodTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
